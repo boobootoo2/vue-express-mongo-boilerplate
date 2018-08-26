@@ -20,7 +20,7 @@ export default new VueRouter({
         { path: "/posts", component: Posts },
         { path: "/counter", component: Counter },
         { path: "/profile", component: Profile },
-        { path: "/gallery", component: Gallery }
+        { path: "/gallery/:id", component: Gallery }
         // { path: "/users", component: User, meta: { needRole: "admin" } },
         //{ path: "*", component: NotFound }
     ]
