@@ -107,6 +107,7 @@
         "socket.io": "2.0.2",
         "socket.io-client": "2.0.2",
         "uuid-token-generator": "1.0.0",
+        "vue-gallery": "^1.4.0",
         "winston": "2.3.1",
         "winston-daily-rotate-file": "1.4.6",
         "winston-graylog2": "0.7.1",
